@@ -12,5 +12,5 @@
 2. select and launch a camera to capture images
 3. replaces InPainter used on the web
 
-#### licence
+#### LICENSE
 MIT
